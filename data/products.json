@@ -1,0 +1,95 @@
+[
+  {
+    "_id": "16e7b0f9-648e-4839-80e2-65ed27a779b2",
+    "name": "Gorgeous Hat",
+    "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+    "brand": "Fahey Group",
+    "price": "$43.00",
+    "currency": "USD",
+    "inStock": false,
+    "attributes": {
+      "material": "Wooden",
+      "color": "pink"
+    }
+  },
+  {
+    "_id": "a9315a4b-4af7-4d9c-a896-fcdc30df2b5f",
+    "name": "Gorgeous Ball",
+    "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+    "brand": "Collins LLC",
+    "price": "$78.00",
+    "currency": "USD",
+    "inStock": true,
+    "attributes": {
+      "material": "Bronze",
+      "color": "ivory"
+    }
+  },
+  [
+    {
+      "_id": "efff51ae-2e33-460e-b099-abbf219f6186",
+      "name": "Rustic Bacon",
+      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "brand": "Sauer - Kertzmann",
+      "price": "$149.00",
+      "currency": "USD",
+      "inStock": false,
+      "attributes": {
+        "material": "Metal",
+        "color": "mint green"
+      }
+    },
+    {
+      "_id": "6e5e9d6d-7bb1-4c2c-8480-d0d89ed1b5b7",
+      "name": "Small Chips",
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "brand": "Lind Group",
+      "price": "$200.00",
+      "currency": "USD",
+      "inStock": true,
+      "attributes": {
+        "material": "Rubber",
+        "color": "orchid"
+      }
+    },
+    {
+      "_id": "fac06773-5be2-45ac-ae3d-b0cdd66d34d1",
+      "name": "Oriental Fish",
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "brand": "Bode - Miller",
+      "price": "$131.00",
+      "currency": "USD",
+      "inStock": true,
+      "attributes": {
+        "material": "Soft",
+        "color": "olive"
+      }
+    },
+    {
+      "_id": "474a3c5e-a716-45c1-9c1b-1d1f36103ac9",
+      "name": "Handmade Chicken",
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "brand": "Kilback, Koepp and Blanda",
+      "price": "$137.00",
+      "currency": "USD",
+      "inStock": false,
+      "attributes": {
+        "material": "Metal",
+        "color": "lime"
+      }
+    },
+    {
+      "_id": "41023617-3a5f-403e-9181-b387b9becece",
+      "name": "Handcrafted Fish",
+      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+      "brand": "Bogisich, Bartell and Hackett",
+      "price": "$138.00",
+      "currency": "USD",
+      "inStock": true,
+      "attributes": {
+        "material": "Rubber",
+        "color": "purple"
+      }
+    }
+  ]
+]
